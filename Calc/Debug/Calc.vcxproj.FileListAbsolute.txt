@@ -1,0 +1,3 @@
+C:\Users\aniko\source\repos\Calc\Calc\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\aniko\source\repos\Calc\Calc\Debug\Calc.FFirst.resources
+C:\Users\aniko\source\repos\Calc\Calc\Debug\Calc.vcxproj.GenerateResource.cache

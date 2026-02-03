@@ -1,0 +1,6 @@
+C:\Users\kondr\source\repos\Calc\Calc\x64\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\kondr\source\repos\Calc\Calc\x64\Debug\Calc.FFirst.resources
+C:\Users\kondr\source\repos\Calc\Calc\x64\Debug\Calc.vcxproj.GenerateResource.cache
+C:\Users\aniko\source\repos\Calc\Calc\x64\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\aniko\source\repos\Calc\Calc\x64\Debug\Calc.FFirst.resources
+C:\Users\aniko\source\repos\Calc\Calc\x64\Debug\Calc.vcxproj.GenerateResource.cache
